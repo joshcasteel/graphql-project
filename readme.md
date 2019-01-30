@@ -1,1 +1,1 @@
-GraphQL project using React and mongoDB
+GraphQL project using React, Express and MongoDB
