@@ -6,6 +6,7 @@ class BookDetails extends Component {
     displayBookDetails(){
         const { book } = this.props.data;
         if(book){
+            console.log(book)
             return(
                 <div>
                     <h2>{book.name}</h2>
